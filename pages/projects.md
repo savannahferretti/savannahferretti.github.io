@@ -1,23 +1,19 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
 ---
 
-{% include header.html %}
-
 ## Projects
 
-### Project 1
-**Title:** Example Project  
-**Description:** Brief description of your project, your role, and results.  
-**Link:** [View project](#)
+<div class="project">
+  <h3>Example Project</h3>
+  <p>Brief description of the project, your role, and key results or impact.</p>
+  <p><a href="#">View project →</a></p>
+</div>
 
-### Project 2
-**Title:** Another Project  
-**Description:** Short summary of another key project or paper.  
-**Link:** [View project](#)
-
-You can add more projects using the same format.
-
-{% include footer.html %}
+<div class="project">
+  <h3>Another Project</h3>
+  <p>Short summary of another key project, paper, or collaboration.</p>
+  <p><a href="#">View project →</a></p>
+</div>

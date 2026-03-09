@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | Savannah Ferretti</title>
+  <link rel="stylesheet" href="/design/style.css">
+</head>
+<body>
+  <div class="wrapper">
+
+    <aside class="sidebar">
+      <div class="sidebar-inner">
+        <img class="profile-photo" src="/files/profile.jpg" alt="Savannah Ferretti">
+        <h1 class="site-name">Savannah Ferretti</h1>
+        <p class="site-tagline">Fifth-year PhD student<br>Industry-ready researcher</p>
+
+        <nav class="nav">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/projects/">Projects</a></li>
+            <li><a href="/contact/">Contact</a></li>
+          </ul>
+        </nav>
+
+        <div class="social-links">
+          <a href="mailto:your.email@example.com">✉ Email</a>
+          <a href="https://linkedin.com/in/yourprofile">in LinkedIn</a>
+          <a href="https://github.com/savannahferretti">⌥ GitHub</a>
+          <a href="/files/resume.pdf">↓ CV / Resume</a>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      {{ content }}
+    </main>
+
+  </div>
+</body>
+</html>

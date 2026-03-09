@@ -1,17 +1,15 @@
 ---
-layout: page
+layout: default
 title: Contact
 permalink: /contact/
 ---
 
-{% include header.html %}
-
 ## Contact
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-**GitHub:** [github.com/savannahferretti](https://github.com/savannahferretti)  
+Feel free to reach out — I'm always happy to chat about research, collaboration, or industry opportunities.
 
-You can also include a contact form later if needed.
+**Email:** [your.email@example.com](mailto:your.email@example.com)
 
-{% include footer.html %}
+**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+
+**GitHub:** [github.com/savannahferretti](https://github.com/savannahferretti)
