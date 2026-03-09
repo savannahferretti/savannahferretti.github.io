@@ -6,34 +6,16 @@ permalink: /about/
 
 ## About Me
 
-I am a fifth-year PhD student in the [Department of Computer Science](/) at [Example University](/), advised by [Prof. Jane Smith](/). My research focuses on developing machine learning methods for analyzing high-dimensional biological data, with particular emphasis on genomics and drug discovery.
+**I'm a climate data scientist.** 
 
-Before my PhD, I completed a B.S. in Applied Mathematics at [State University](/) with a minor in Statistics, graduating summa cum laude.
+My work focuses on climate data, modeling, and analysis, with a particular interest in extreme events and climate variability. I’m also interested in how climate research can be more transparent, collaborative, and easier for others to build on through open-source tools and reproducible workflows. I share some of my projects on [GitHub](https://github.com/savannahferretti).
 
-## Research Interests
+**I’m interested in open science.**
 
-- **Machine learning for genomics** — efficient sequence models, attention mechanisms, representation learning
-- **Drug discovery** — graph neural networks for drug–target interaction, molecular property prediction
-- **Scalable inference** — variational methods, Bayesian deep learning, large-scale training
+I care about building tools and workflows that make climate science more reproducible and accessible. That includes writing clean, shareable code, working with publicly available datasets, and contributing to a culture where research is easier to reproduce and reuse.
 
-## Education
+**A bit more about me.**
 
-**Ph.D. in Computer Science** — Example University, 2021–Present
-*Advisor: Prof. Jane Smith*
+I’m originally from Long Island, New York. I studied Earth and Atmospheric Sciences at Cornell University in Ithaca, where I also co-founded the [Cornell University Dance Team](https://cornell.campusgroups.com/cudt/home/). I graduated in December 2020 during the COVID-19 pandemic and moved back to Long Island, working remotely as a financial management consultant before deciding to pursue a PhD. In September 2021, I moved to Irvine, California for graduate school. I recently moved to Long Beach and expect to finish my doctorate in June 2026. I’m currently exploring full-time roles after graduation.
 
-**B.S. in Applied Mathematics** — State University, 2017–2021
-*Minor in Statistics. Summa Cum Laude.*
-
-## Experience
-
-**Research Intern** — Big Tech Co., ExampleLab *(Jan 2026 – Present)*
-Working on large-scale protein language models for structure and function prediction.
-
-**Teaching Assistant** — Example University *(Fall 2022, Fall 2023)*
-Courses: Machine Learning (CS 4780), Computational Biology (CS 4775).
-
-## Awards & Honors
-
-- NSF Graduate Research Fellowship, 2022
-- Best Paper Award, ML for Structural Biology Workshop at NeurIPS 2025
-- Outstanding Teaching Assistant Award, Example University, 2023
+When I’m not working with climate data, I like spending time outdoors and working on creative hobbies. I enjoy skiing, hiking, and camping, as well as thrifting, crocheting, and dance.
