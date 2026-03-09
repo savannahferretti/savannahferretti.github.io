@@ -322,6 +322,86 @@ a.button:hover {
   background: #0d47a1;
 }
 
+/* ── Contact page ── */
+
+.contact-layout {
+  display: grid;
+  grid-template-columns: 1fr 1.6fr;
+  gap: 3rem;
+  align-items: flex-start;
+}
+
+.contact-intro h2 {
+  margin-top: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.contact-intro p {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.7;
+}
+
+.contact-intro a {
+  color: #1976D2;
+}
+
+/* Contact form */
+
+.contact-form .form-group {
+  margin-bottom: 1.1rem;
+}
+
+.contact-form label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #444;
+  margin-bottom: 0.35rem;
+  letter-spacing: 0.02em;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9rem;
+  color: #333;
+  background: white;
+  border: 1px solid #d0d0d0;
+  border-radius: 4px;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  outline: none;
+  resize: vertical;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #1976D2;
+  box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.12);
+}
+
+.form-submit {
+  display: inline-block;
+  padding: 0.55rem 1.5rem;
+  background: #1976D2;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s;
+  margin-top: 0.25rem;
+}
+
+.form-submit:hover {
+  background: #0d47a1;
+}
+
 /* ── Responsive ── */
 
 @media (max-width: 768px) {
@@ -345,5 +425,10 @@ a.button:hover {
   .masthead-nav a {
     padding: 0.75rem 0.6rem;
     font-size: 0.8rem;
+  }
+
+  .contact-layout {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
 }
