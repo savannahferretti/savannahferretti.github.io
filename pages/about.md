@@ -1,13 +1,23 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-{% include header.html %}
-
 ## About Me
 
-I am a fifth-year PhD student in [your field]. My skills include [skills], and I am looking to transition into industry.
+I am a fifth-year PhD student in [your field] at [your university]. My research focuses on [research area], with an emphasis on [specific topic].
 
-{% include footer.html %}
+Before my PhD, I completed [undergraduate/master's degree] at [institution].
+
+## Skills
+
+- **Programming:** Python, R, [other languages]
+- **Tools:** [relevant tools/frameworks]
+- **Research:** [methodologies or techniques]
+
+## Education
+
+**Ph.D. in [Field]** — [University], [Year – Present]
+
+**B.S. in [Field]** — [University], [Year]
