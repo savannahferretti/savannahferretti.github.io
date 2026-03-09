@@ -6,11 +6,29 @@ permalink: /
 
 I am a fifth-year PhD student in the [Department of Computer Science](/) at [Example University](/), advised by [Prof. Jane Smith](/). My research lies at the intersection of **machine learning** and **computational biology**, with a focus on developing scalable methods for analyzing high-dimensional biological data.
 
-Before my PhD, I completed a B.S. in Applied Mathematics at [State University](/) with a minor in Statistics.
-
-I am currently on the job market and actively seeking industry research positions. Feel free to reach out if you would like to collaborate or chat.
-
 [Download CV](/files/resume.pdf){: .button }
+
+## Research Interests
+
+- **Machine learning for genomics** — efficient sequence models, attention mechanisms, representation learning
+- **Drug discovery** — graph neural networks for drug–target interaction, molecular property prediction
+- **Scalable inference** — variational methods, Bayesian deep learning, large-scale training
+
+## Education
+
+**Ph.D. in Computer Science** — Example University, 2021–Present
+*Advisor: Prof. Jane Smith*
+
+**B.S. in Applied Mathematics** — State University, 2017–2021
+*Minor in Statistics. Summa Cum Laude.*
+
+## Experience
+
+**Research Intern** — Big Tech Co., ExampleLab *(Jan 2026 – Present)*
+Working on large-scale protein language models for structure and function prediction.
+
+**Teaching Assistant** — Example University *(Fall 2022, Fall 2023)*
+Courses: Machine Learning (CS 4780), Computational Biology (CS 4775).
 
 ## News
 
