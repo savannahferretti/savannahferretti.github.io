@@ -14,6 +14,6 @@ Fifth-year PhD student | Industry-ready researcher
 
 I am passionate about [your research field] and applying my skills in industry settings.
 
-[Download CV](/assets/files/CV.pdf){: .button }
+[Download CV](/files/CV.pdf){: .button }
 
 {% include footer.html %}
