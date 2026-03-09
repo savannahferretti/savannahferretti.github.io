@@ -10,7 +10,7 @@ permalink: /
 
 Fifth-year PhD student | Industry-ready researcher
 
-![Profile Photo](/assets/files/profile.jpg)
+![Profile Photo](/files/profile.jpg)
 
 I am passionate about [your research field] and applying my skills in industry settings.
 
