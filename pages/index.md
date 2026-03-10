@@ -8,7 +8,8 @@ permalink: /
 
 **I'm a climate data scientist.** 
 
-My work focuses on climate data, modeling, and analysis, with a particular interest in extreme events and climate variability. I’m also interested in how climate research can be more transparent, collaborative, and easier for others to build on through open-source tools and reproducible workflows. I share some of my projects on [GitHub](https://github.com/savannahferretti).
+
+I’m a current PhD candidate at UC Irvine, advised [by Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/), and I expect to complete my doctorate in June 2026. My research uses statistical and machine learning models to understand the drivers of tropical rainfall, with a focus on the South Asian monsoon, though I am broadly interested in climate dynamics, extremes, and variability, and their impacts on vulnerable populations. I am currently exploring full-time roles where I can apply my skills in climate science, data analysis, and open-source research. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
 
 **I’m interested in open science.**
 
@@ -16,9 +17,7 @@ I care about building tools and workflows that make climate science more reprodu
 
 **A bit more about me.**
 
-I’m originally from Long Island, New York. I studied Earth and Atmospheric Sciences at Cornell University in Ithaca, New York, where I also co-founded the [Cornell University Dance Team](https://cornell.campusgroups.com/cudt/home/). I graduated in December 2020 during the COVID-19 pandemic and moved back to Long Island, working remotely as a financial management consultant before deciding to pursue a PhD. In September 2021, I moved to Irvine, California for graduate school. I recently moved to Long Beach and expect to finish my doctorate in June 2026. I’m currently exploring full-time roles after graduation.
-
-When I’m not working with climate data, I like spending time outdoors and working on creative hobbies. I enjoy skiing, hiking, and camping, as well as thrifting, crocheting, and dance.
+I’m originally from Long Island, New York. I studied Earth and Atmospheric Sciences at Cornell University in Ithaca, New York, where I also co-founded the [Cornell University Dance Team](https://cornell.campusgroups.com/cudt/home/). I graduated in December 2020 during the COVID-19 pandemic and moved back to Long Island, working remotely as a financial management consultant before deciding to pursue a PhD. In September 2021, I moved to Irvine, California for graduate school, and I recently relocated to Long Beach. When I’m not working with climate data, I enjoy skiing, hiking, camping, thrifting, crocheting, and dance.
 
 ## Recent News
 
@@ -40,35 +39,3 @@ When I’m not working with climate data, I like spending time outdoors and work
     <td>The first chapter of my PhD was published in <i>Geophysical Research Letters</i>.</td>
   </tr>
 </table>
-
-## Selected Publications
-
-<div class="publication">
-  <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
-  <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
-  <p class="publication__venue">Accepted to Environmental Data Science</p>
-  <div class="publication__links">
-    <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
-  </div>
-</div>
-
-<div class="publication">
-  <p class="publication__title">Explaining South Asian monsoon rainfall seasonality using a metric of plume buoyancy</p>
-  <p class="publication__authors"><strong>S. L. Ferretti</strong>, M. S. Pritchard, F. Ahmed, L. Peng, & J. W. Baldwin</p>
-  <p class="publication__venue">Geophysical Research Letters, 2025</p>
-  <div class="publication__links">
-    <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL115546">DOI</a>
-    <a href="https://github.com/savannahferretti/monsoon-pod">Code</a>
-  </div>
-</div>
-
-<div class="publication">
-  <p class="publication__title">ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation</p>
-  <p class="publication__authors">S. Yu, W. M. Hannah, L. Peng, M. A. Bhouri, R. Gupta, J. Lin, B. Lütjens, J. C. Will, T. Beucler, B. E. Harrop, B. R. Hillman, A. M. Jenney, <strong>S. L. Ferretti</strong>, N. Liu, A. Anandkumar, N. D. Brenowitz, V. Eyring, P. Gentine, S. Mandt, J. Pathak, C. Vondrick, R. Yu, L. Zanna, R. P. Abernathey, F. Ahmed, D. C. Bader, P. Baldi, E. A. Barnes, G. Behrens, C. S. Bretherton, J. J. M. Busecke, P. M. Caldwell, W. Chuang, Y. Han, Y. Huang, F. Iglesias-Suarez, S. Jantre, K. Kashinath, M. Khairoutdinov, T. Kurth, N. J. Lutsko, P. -L. Ma, G. Mooers, J. D. Neelin, D. A. Randall, S. Shamekh, A. Subramaniam, M. A. Taylor, N. M. Urban, J. Yuval, G. J. Zhang, T. Zheng, and M. S. Pritchard</p>
-  <p class="publication__venue">NeurIPS 2023, Datasets & Benchmarks Track Outstanding Paper Award</p>
-  <div class="publication__links">
-    <a href="https://leap-stc.github.io/ClimSim/README.html" target="_blank">Project</a>
-  </div>
-</div>
-
-[See all publications →](/publications/)
