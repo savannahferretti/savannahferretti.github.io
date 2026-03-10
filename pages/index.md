@@ -9,7 +9,7 @@ permalink: /
 **I'm a climate data scientist.** 
 
 
-I’m a current PhD candidate at UC Irvine, advised [by Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/), and I expect to complete my doctorate in June 2026. My research uses statistical and machine learning models to understand the drivers of tropical rainfall, with a focus on the South Asian monsoon, though I am broadly interested in climate dynamics, extremes, and variability, and their impacts on vulnerable populations. I am currently exploring full-time roles where I can apply my skills in climate science, data analysis, and open-source research. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
+I’m a current PhD candidate at UC Irvine, advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/), and I expect to complete my doctorate in June 2026. My research uses statistical and machine learning models to understand the drivers of tropical rainfall, with a focus on the South Asian monsoon, though I am broadly interested in climate dynamics, extremes, and variability, and their impacts on vulnerable populations. I am currently exploring full-time roles where I can apply my skills in climate science, data analysis, and open-source research. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
 
 **I’m interested in open science.**
 
