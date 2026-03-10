@@ -15,7 +15,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 <div class="publication">
   <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
   <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
-  <p class="publication__venue">Submitted to Environmental Data Science, 2025</p>
+  <p class="publication__venue">Accepted to Environmental Data Science</p>
   <div class="publication__links">
     <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
   </div>
