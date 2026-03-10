@@ -20,25 +20,6 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
 
 When I’m not working with climate data, I like spending time outdoors and working on creative hobbies. I enjoy skiing, hiking, and camping, as well as thrifting, crocheting, and dance.
 
-[Download CV](/files/resume.pdf){: .button }
-
-
-## Education
-
-**Ph.D. in Computer Science** — Example University, 2021–Present
-*Advisor: Prof. Jane Smith*
-
-**B.S. in Applied Mathematics** — State University, 2017–2021
-*Minor in Statistics. Summa Cum Laude.*
-
-## Experience
-
-**Research Intern** — Big Tech Co., ExampleLab *(Jan 2026 – Present)*
-Working on large-scale protein language models for structure and function prediction.
-
-**Teaching Assistant** — Example University *(Fall 2022, Fall 2023)*
-Courses: Machine Learning (CS 4780), Computational Biology (CS 4775).
-
 ## Recent News
 
 <table class="news-table">
