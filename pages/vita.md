@@ -166,11 +166,15 @@ This is an abbreviated vita. A full CV and a shorter resume are both available f
 ## Skills
 
 <div class="cv-entry">
-  <div class="cv-entry__date"></div>
+  <div class="cv-entry__date">Technical</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">Technical</p>
-    <p class="cv-entry__sub">Python (PyTorch, PySR, Dask, Xarray, Pandas, Cartopy, Matplotlib) • Bash • Git/GitHub • High-Performance/Distributed Computing • NetCDF/HDF5/Zarr • Linux • LaTeX • WordPress</p>
-    <p class="cv-entry__title">Other</p>
-    <p class="cv-entry__sub">Microsoft Excel (Certified Specialist)</p>
+    <p class="cv-entry__sub">Python (PyTorch, PySR, Dask, Xarray, Pandas, Cartopy, Matplotlib) • Bash • Git/GitHub • High-Performance/Distributed Computing • NetCDF/HDF5/Zarr • Linux</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">Other</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__sub">Microsoft Excel (Certified Specialist) • LaTeX • WordPress</p>
   </div>
 </div>
