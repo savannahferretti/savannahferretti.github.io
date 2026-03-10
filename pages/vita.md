@@ -86,57 +86,24 @@ This is an abbreviated vita. A full CV and a shorter resume are both available f
 <div class="cv-entry">
   <div class="cv-entry__date">2026</div>
   <div class="cv-entry__body">
-    <p><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler. Data-driven integration kernels for interpretable nonlocal operator learning. In review at <em>Environ. Data Sci.</em></p>
-    <div class="publication__links">
-      <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
-    </div>
+    <p>Ferretti et al. <strong>Data-driven integration kernels for interpretable nonlocal operator learning</strong>. In review at <em>Environmental Data Science</em>. <a href="https://github.com/savannahferretti/monsoon-kernels">arXiv</a>.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2025</div>
   <div class="cv-entry__body">
-    <p><strong>S. L. Ferretti</strong>, M. S. Pritchard, F. Ahmed, L. Peng, & J. W. Baldwin. "Explaining South Asian monsoon rainfall seasonality using a metric of plume buoyancy." <em>Geophysical Research Letters.</em></p>
-    <div class="publication__links">
-      <a href="https://doi.org/10.1029/2025GL115546">DOI</a>
-      <a href="https://github.com/savannahferretti/monsoon-pod">Code</a>
-    </div>
-    <p>L. Peng, P. N. Blossey, W. M. Hannah, ...<strong>S. L. Ferretti</strong>, ...& M. S. Pritchard. "Resolving low cloud feedbacks globally with E3SM High-Res MMF." <em>Journal of Advances in Modeling Earth Systems.</em></p>
-    <div class="publication__links">
-      <a href="https://doi.org/10.1029/2025MS005003">DOI</a>
-    </div>
-  </div>
-</div>
-
-
-
-<div class="cv-entry">
-  <div class="cv-entry__date">2025</div>
-  <div class="cv-entry__body">
-    <p>S. Yu, Z. Hu, A. Subramaniam, et al. (incl. <strong>S. L. Ferretti</strong>). "ClimSim-Online: A large multi-scale dataset and framework for hybrid ML–physics climate emulation." <em>Journal of Machine Learning Research.</em></p>
-    <div class="publication__links">
-      <a href="http://jmlr.org/papers/v26/24-1014.html">Project</a>
-    </div>
+    <p>Ferretti et al. <strong>Explaining South Asian monsoon rainfall seasonality using a metric of plume buoyancy</strong>. <em>Geophysical Research Letters</em>. <a href="https://doi.org/10.1029/2025GL115546">DOI</a>.</p>
+    <p>Peng et al. <strong>Resolving low cloud feedbacks globally with E3SM High-Res MMF: Agreement with LES but stronger shortwave sffects</strong>. <em>Journal of Advances in Modeling Earth Systems</em>. <a href="https://doi.org/10.1029/2025MS005003">DOI</a>.</p>
+    <p>Yu et al. <strong>ClimSim-Online: A large multi-scale dataset and framework for hybrid ML–physics climate emulation</strong>. <em>Journal of Machine Learning Research</em>. <a href="http://jmlr.org/papers/v26/24-1014.html">URL</a>.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2023</div>
   <div class="cv-entry__body">
-    <p>A. M. Jenney, <strong>S. L. Ferretti</strong>, & M. S. Pritchard. "Vertical resolution impacts explicit simulation of deep convection." <em>Journal of Advances in Modeling Earth Systems.</em></p>
-    <div class="publication__links">
-      <a href="https://doi.org/10.1029/2022MS003444">DOI</a>
-    </div>
-  </div>
-</div>
-
-<div class="cv-entry">
-  <div class="cv-entry__date">2023</div>
-  <div class="cv-entry__body">
-    <p>S. Yu, W. M. Hannah, L. Peng, et al. (incl. <strong>S. L. Ferretti</strong>). "ClimSim: A large multi-scale dataset for hybrid physics–ML climate emulation." <em>NeurIPS 2023 Datasets & Benchmarks Track</em>, Outstanding Paper Award.</p>
-    <div class="publication__links">
-      <a href="https://dl.acm.org/doi/10.5555/3666122.3667090">DOI</a>
-    </div>
+    <p>Jenney et al. <strong>Vertical resolution impacts explicit simulation of deep convection</strong>. <em>Journal of Advances in Modeling Earth Systems</em>. <a href="https://doi.org/10.1029/2022MS003444">DOI</a>.</p>
+    <p>Yu et al. <strong> ClimSim: A large multi-scale dataset for hybrid physics–ML climate emulation</strong>. <em>NeurIPS 2023 Datasets & Benchmarks Track</em>, Outstanding Paper Award. <a href="https://dl.acm.org/doi/10.5555/3666122.3667090">DOI</a>.</p>
   </div>
 </div>
 
@@ -145,39 +112,39 @@ This is an abbreviated vita. A full CV and a shorter resume are both available f
 <div class="cv-entry">
   <div class="cv-entry__date">2026</div>
   <div class="cv-entry__body">
-    <p>(Invited Oral) "Making Data-Driven Climate Prediction Interpretable by Design." <em>LEAP NSF-STC Lectures in Climate Data Science.</em></p>
-    <p>(Invited Oral) TBD. <em>Climate Informatics.</em> Lausanne, Switzerland.</p>
+    <p>(Invited Oral) <strong>TBD</strong>. <em>Climate Informatics</em>. Lausanne, VD, CH.</p>
+    <p>(Invited Oral) <strong>Making Data-Driven Climate Prediction Interpretable by Design</strong>. <em>LEAP Lectures in Climate Data Science</em>. Virtual.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2025</div>
   <div class="cv-entry__body">
-    <p>(Oral) "Learning Nonlocal Controls on South Asian Monsoon Rainfall." <em>AGU Fall Meeting</em>, New Orleans, LA, USA.</p>
-    <p>(Poster) "Towards Data-Driven Discovery of Thermodynamic Controls on South Asian Monsoon Rainfall." <em>LEAP Year 5 Meeting</em>, Briarcliff Manor, NY, USA.</p>
+    <p>(Oral) <strong>Learning Nonlocal Controls on South Asian Monsoon Rainfall</strong>. <em>AGU Fall Meeting</em>. New Orleans, LA, USA.</p>
+    <p>(Poster) <strong>Towards Data-Driven Discovery of Thermodynamic Controls on South Asian Monsoon Rainfall</strong>. <em>LEAP Year 5 Meeting</em>. Briarcliff Manor, NY, USA.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2024</div>
   <div class="cv-entry__body">
-    <p>(Poster) "Spatiotemporal Stress-Testing of a Process-Oriented Diagnostic for Rainfall." <em>AGU Fall Meeting</em>, Washington DC, USA.</p>
-    <p>(Poster) "Unraveling CMIP6 Biases in Summer Monsoon Rainfall Over the Arabian Sea and Western India." <em>104th AMS Annual Meeting</em>, Baltimore, MD, USA.</p>
+    <p>(Poster) <strong>Spatiotemporal Stress-Testing of a Process-Oriented Diagnostic for Rainfall</strong>. <em>AGU Fall Meeting</em>. Washington DC, USA.</p>
+    <p>(Poster) <strong>Unraveling CMIP6 Biases in Summer Monsoon Rainfall Over the Arabian Sea and Western India</strong>. <em>104th AMS Annual Meeting</em>. Baltimore, MD, USA.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2022</div>
   <div class="cv-entry__body">
-    <p>(Invited Oral) "Using Models to Understand Climate Change." <em>Making Modern Science</em>, University of California, Irvine. Irvine, CA, USA.</p>
-    <p>(Poster) "Understanding the Monthly Variation in the Upstream Enhancement of Indian Summer Monsoon Precipitation Near the Western Ghats." <em>AGU Fall Meeting</em>, Chicago, IL, USA.</p>
+    <p>(Invited Oral) <strong>Using Models to Understand Climate Change</strong>. <em>Making Modern Science</em>, University of California, Irvine. Irvine, CA, USA.</p>
+    <p>(Poster) <strong>Understanding the Monthly Variation in the Upstream Enhancement of Indian Summer Monsoon Precipitation Near the Western Ghats</strong>. <em>AGU Fall Meeting</em>. Chicago, IL, USA.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2020</div>
   <div class="cv-entry__body">
-    <p>(Poster) "Assessing the Meteorological Impact on Methane Emission Changes in New York City During the COVID-19 Shutdown." <em>AGU Fall Meeting</em>, Virtual.</p>
+    <p>(Poster) <strong>Assessing the Meteorological Impact on Methane Emission Changes in New York City During the COVID-19 Shutdown</strong>. <em>AGU Fall Meeting</em>. Virtual.</p>
   </div>
 </div>
 
