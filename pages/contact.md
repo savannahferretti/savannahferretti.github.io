@@ -9,7 +9,7 @@ permalink: /contact/
   <div class="contact-intro">
     <h2>Let's get in touch!</h2>
     <p>
-      ’m happy to connect about climate research, potential collaborations, or possible emplyoment oppurtunities. I try to reply within a few days.
+      I’m happy to connect about research, potential collaborations, or possible emplyoment oppurtunities. I try to reply within a few days.
     </p>
     <p>
       You can also find me at:<br>
