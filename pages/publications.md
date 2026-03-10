@@ -36,7 +36,7 @@ permalink: /publications/
 
 <div class="publication">
   <p class="publication__title">ClimSim-Online: A large multi-scale dataset and framework for hybrid ML–physics climate emulation</p>
-  <p class="publication__authors">S. Yu, Z. Hu, A. Subramaniam, W. M. Hannah, L. Peng, J. Lin, M. A. Bhouri, R. Gupta, B. Lütjens, J. C. Will, G. Behrens, J. J. M. Busecke, N. Loose, C. I. Stern, T. Beucler, B. E. Harrop, H. Heuer, B. R. Hillman, A. M. Jenney, N. Liu, A. White, T. Zheng, Z. Kuang, F. Ahmed, E. A. Barnes, N. D. Brenowitz, C. S. Bretherton, V. Eyring, <strong>S. L. Ferretti</strong>, N. J. Lutsko, P. Gentine, S. Mandt, J. D. Neelin, R. Yu, L. Zanna, N. M. Urban, J. Yuval, R. P. Abernathey, P. Baldi, W. Chuang, Y. Huang, F. Iglesias-Suarez, S. Jantre, P.-L. Ma, S. Shamekh, G. Zhang, M. S. Pritchard</p>
+  <p class="publication__authors">S. Yu, Z. Hu, A. Subramaniam, W. M. Hannah, L. Peng, J. Lin, M. A. Bhouri, R. Gupta, B. Lütjens, J. C. Will, G. Behrens, J. J. M. Busecke, N. Loose, C. I. Stern, T. Beucler, B. E. Harrop, H. Heuer, B. R. Hillman, A. M. Jenney, N. Liu, A. White, T. Zheng, Z. Kuang, F. Ahmed, E. A. Barnes, N. D. Brenowitz, C. S. Bretherton, V. Eyring, <strong>S. L. Ferretti</strong>, N. J. Lutsko, P. Gentine, S. Mandt, J. D. Neelin, R. Yu, L. Zanna, N. M. Urban, J. Yuval, R. P. Abernathey, P. Baldi, W. Chuang, Y. Huang, F. Iglesias-Suarez, S. Jantre, P.-L. Ma, S. Shamekh, G. Zhang, & M. S. Pritchard</p>
   <p class="publication__venue">Journal of Machine Learning Research, 2025</p>
   <div class="publication__links">
     <a href="http://jmlr.org/papers/v26/24-1014.html">URL</a>
@@ -56,7 +56,7 @@ permalink: /publications/
 
 <div class="publication">
   <p class="publication__title">ClimSim: A large multi-scale dataset for hybrid physics–ML climate emulation</p>
-  <p class="publication__authors">S. Yu, W. M. Hannah, L. Peng, M. A. Bhouri, R. Gupta, J. Lin, B. Lütjens, J. C. Will, T. Beucler, B. E. Harrop, B. R. Hillman, A. M. Jenney, <strong>S. L. Ferretti</strong>, N. Liu, A. Anandkumar, N. D. Brenowitz, V. Eyring, P. Gentine, S. Mandt, J. Pathak, C. Vondrick, R. Yu, L. Zanna, R. P. Abernathey, F. Ahmed, D. C. Bader, P. Baldi, E. A. Barnes, G. Behrens, C. S. Bretherton, J. J. M. Busecke, P. M. Caldwell, W. Chuang, Y. Han, Y. Huang, F. Iglesias-Suarez, S. Jantre, K. Kashinath, M. Khairoutdinov, T. Kurth, N. J. Lutsko, P. -L. Ma, G. Mooers, J. D. Neelin, D. A. Randall, S. Shamekh, A. Subramaniam, M. A. Taylor, N. M. Urban, J. Yuval, G. J. Zhang, T. Zheng, and M. S. Pritchard</p>
+  <p class="publication__authors">S. Yu, W. M. Hannah, L. Peng, M. A. Bhouri, R. Gupta, J. Lin, B. Lütjens, J. C. Will, T. Beucler, B. E. Harrop, B. R. Hillman, A. M. Jenney, <strong>S. L. Ferretti</strong>, N. Liu, A. Anandkumar, N. D. Brenowitz, V. Eyring, P. Gentine, S. Mandt, J. Pathak, C. Vondrick, R. Yu, L. Zanna, R. P. Abernathey, F. Ahmed, D. C. Bader, P. Baldi, E. A. Barnes, G. Behrens, C. S. Bretherton, J. J. M. Busecke, P. M. Caldwell, W. Chuang, Y. Han, Y. Huang, F. Iglesias-Suarez, S. Jantre, K. Kashinath, M. Khairoutdinov, T. Kurth, N. J. Lutsko, P. -L. Ma, G. Mooers, J. D. Neelin, D. A. Randall, S. Shamekh, A. Subramaniam, M. A. Taylor, N. M. Urban, J. Yuval, G. J. Zhang, T. Zheng, & M. S. Pritchard</p>
   <p class="publication__venue">NeurIPS 2023, Datasets & Benchmarks Track Outstanding Paper Award</p>
   <div class="publication__links">
     <a href="https://dl.acm.org/doi/10.5555/3666122.3667090">DOI</a>
