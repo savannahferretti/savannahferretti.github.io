@@ -161,6 +161,6 @@ permalink: /cv/
 
 <div class="cv-entry">
   <div class="cv-entry__body">
-    <p>Python (PyTorch, PySR, Dask, Xarray, Pandas, Cartopy, Matplotlib), Bash, Git/GitHub, High-Performance/Distributed Computing, NetCDF/HDF5/Zarr, Linux, Microsoft Excel (Certified Specialist), LaTeX, WordPress</p>
+    <p>Python (PyTorch, PySR, Dask, Xarray, Pandas, Cartopy, Matplotlib) &bull; Bash &bull; Git/GitHub &bull; High-Performance/Distributed Computing &bull; NetCDF/HDF5/Zarr &bull; Linux &bull; Microsoft Excel (Certified Specialist) &bull; LaTeX &bull; WordPress</p>
   </div>
 </div>
