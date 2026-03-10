@@ -9,11 +9,11 @@ permalink: /contact/
   <div class="contact-intro">
     <h2>Let's get in touch!</h2>
     <p>
-      I’m happy to connect about research, potential collaborations, or possible emplyoment oppurtunities. I try to reply within a few days.
+      I’m happy to connect about research, potential collaborations, or possible emplyoment opportunities. I try to reply within a few days.
     </p>
     <p>
       You can also find me at:<br>
-      <strong>ISEB 3400</strong><br>
+      3400 Interdisciplinary Science & Engineering Building<br>
       University of California, Irvine<br>
       Irvine, CA 92697
     </p>
