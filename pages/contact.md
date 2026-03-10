@@ -7,19 +7,15 @@ permalink: /contact/
 <div class="contact-layout">
 
   <div class="contact-intro">
-    <h2>Get in Touch</h2>
+    <h2>Let's get in touch!</h2>
     <p>
-      Feel free to reach out about research, collaboration, or industry opportunities.
-      I try to reply within a few days.
+      ’m happy to connect about climate research, potential collaborations, or possible emplyoment oppurtunities. I try to reply within a few days.
     </p>
     <p>
       You can also find me at:<br>
-      <strong>Room 000, Gates Hall</strong><br>
-      Example University<br>
-      New York, NY 10000
-    </p>
-    <p>
-      <a href="mailto:sferretti@example.edu">sferretti@example.edu</a>
+      <strong>Room 3400 Interdisciplinary Science & Engineering Building</strong><br>
+      University of California, Irvine<br>
+      Irvine, CA 92617
     </p>
   </div>
 
@@ -49,4 +45,3 @@ permalink: /contact/
   </div>
 
 </div>
-I’m happy to connect about climate research, open-source tools, or potential collaborations. Email is the best way to reach me, and my contact information and social links are available in the navigation bar.
