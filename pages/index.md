@@ -25,19 +25,19 @@ When I’m not working with climate data, I like spending time outdoors and work
 <table class="news-table">
   <tr>
     <td>Mar 2026</td>
-    <td>Second chapter of my PhD accepted to <strong>Climate Informatics 2026</strong>.</td>
+    <td>Accepted to present my second PhD chapter at <strong>Climate Informatics Conference</strong> in Lausanne.</td>
   </tr>
   <tr>
     <td>Feb 2026</td>
-    <td>Gave a guest lecture on my second chapter PhD work through LEAP NSF-STC's Spring Lectures in Climate Data Science.</td>
+    <td>Delivered a guest lecture on my second PhD chapter as part of the LEAP NSF-STC Spring Lectures in Climate Data Science.</td>
   </tr>
   <tr>
     <td>Dec 2025</td>
-    <td>Presented my second chapter PhD work at the AGU Fall Meeting in New Orleans.</td>
+    <td>Presented my second PhD chapter research at the <strong>AGU Fall Meeting</strong> in New Orleans.</td>
   </tr>
   <tr>
     <td>Aug 2025 </td>
-    <td>First chapter of my PhD was published in <strong>Geophysical Research Letters</strong>.</td>
+    <td>The first chapter of my PhD was published in <i>Geophysical Research Letters</i>.</td>
   </tr>
 </table>
 
