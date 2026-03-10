@@ -16,7 +16,7 @@ I care about building tools and workflows that make climate science more reprodu
 
 **A bit more about me.**
 
-I’m originally from Long Island, New York. I studied Earth and Atmospheric Sciences at Cornell University in Ithaca, where I also co-founded the [Cornell University Dance Team](https://cornell.campusgroups.com/cudt/home/). I graduated in December 2020 during the COVID-19 pandemic and moved back to Long Island, working remotely as a financial management consultant before deciding to pursue a PhD. In September 2021, I moved to Irvine, California for graduate school. I recently moved to Long Beach and expect to finish my doctorate in June 2026. I’m currently exploring full-time roles after graduation.
+I’m originally from Long Island, New York. I studied Earth and Atmospheric Sciences at Cornell University in Ithaca, New York, where I also co-founded the [Cornell University Dance Team](https://cornell.campusgroups.com/cudt/home/). I graduated in December 2020 during the COVID-19 pandemic and moved back to Long Island, working remotely as a financial management consultant before deciding to pursue a PhD. In September 2021, I moved to Irvine, California for graduate school. I recently moved to Long Beach and expect to finish my doctorate in June 2026. I’m currently exploring full-time roles after graduation.
 
 When I’m not working with climate data, I like spending time outdoors and working on creative hobbies. I enjoy skiing, hiking, and camping, as well as thrifting, crocheting, and dance.
 
@@ -46,7 +46,7 @@ When I’m not working with climate data, I like spending time outdoors and work
 <div class="publication">
   <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
   <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
-  <p class="publication__venue">Submitted to Environmental Data Science, 2025</p>
+  <p class="publication__venue">Accepted to Environmental Data Science</p>
   <div class="publication__links">
     <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
   </div>
