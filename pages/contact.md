@@ -13,9 +13,9 @@ permalink: /contact/
     </p>
     <p>
       You can also find me at:<br>
-      <strong>Room 3400 Interdisciplinary Science & Engineering Building</strong><br>
+      <strong>ISEB 3400</strong><br>
       University of California, Irvine<br>
-      Irvine, CA 92617
+      Irvine, CA 92697
     </p>
   </div>
 
