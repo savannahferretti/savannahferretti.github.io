@@ -4,40 +4,78 @@ title: CV
 permalink: /cv/
 ---
 
-## Curriculum Vitae
+## Vita
 
 <div class="cv-downloads">
   <a href="/files/resume.pdf" class="button" target="_blank">Resume (PDF)</a>
-  <a href="/files/cv.pdf" class="button" target="_blank">Full CV (PDF)</a>
+  <a href="/files/cv.pdf" class="button" target="_blank">CV (PDF)</a>
 </div>
 
 ## Education
 
 <div class="cv-entry">
-  <div class="cv-entry__date">2021 – 2026</div>
+  <div class="cv-entry__date">Jun 2026</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">PhD, Earth System Science</p>
     <p class="cv-entry__sub">University of California, Irvine</p>
-    <p class="cv-entry__detail">Advisor: Michael S. Pritchard</p>
   </div>
 </div>
 
 <div class="cv-entry">
-  <div class="cv-entry__date">2017 – 2020</div>
+  <div class="cv-entry__date">Dec 2023</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">MS, Earth System Science</p>
+    <p class="cv-entry__sub">University of California, Irvine</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">Dec 2020</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">BS, Earth and Atmospheric Sciences</p>
     <p class="cv-entry__sub">Cornell University</p>
   </div>
 </div>
 
-## Research Experience
+## Experience
 
 <div class="cv-entry">
-  <div class="cv-entry__date">2021 – Present</div>
+  <div class="cv-entry__date">Sep 2021 – Present</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">Graduate Research Assistant</p>
-    <p class="cv-entry__sub">Pritchard Lab, University of California, Irvine</p>
-    <p class="cv-entry__detail">Physics-informed machine learning for climate modeling; interpretable nonlocal operator learning; South Asian monsoon dynamics.</p>
+    <p class="cv-entry__sub">Pritchard & Baldwin Labs, University of California, Irvine</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">Mar – Aug 2021</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">Consulting Analyst</p>
+    <p class="cv-entry__sub">Higher Education Research Services, Huron Consulting Group</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">2020</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">Undergraduate Research Assistant</p>
+    <p class="cv-entry__sub">Commane Lab, Lamont-Doherty Earth Observatory</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">Jan – Dec 2020</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">Student Administrative Assistant</p>
+    <p class="cv-entry__sub">CALS Office of Admissions, Cornell University</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">Sep 2019 – May 2020</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">Undergraduate Research Assistant</p>
+    <p class="cv-entry__sub">Pritchard Lab, Cornell University</p>
   </div>
 </div>
 
@@ -121,16 +159,11 @@ permalink: /cv/
 
 ## Skills
 
-<div class="cv-entry">
-  <div class="cv-entry__date">Languages</div>
-  <div class="cv-entry__body">
-    <p>Python, Bash, LaTeX</p>
-  </div>
-</div>
+
+\plaintextentry{Python (PyTorch, PySR, Dask, Xarray, Pandas, Cartopy, Matplotlib)\sep High-Performance/Distributed Computing\sep NetCDF/HDF5/Zarr\sep Git/GitHub\sep Linux\sep  Microsoft Excel (Certified Specialist)\sep \LaTeX\sep WordPress}
 
 <div class="cv-entry">
-  <div class="cv-entry__date">Tools</div>
   <div class="cv-entry__body">
-    <p>PyTorch, Xarray, NumPy, Matplotlib, Jupyter, Git, GitHub</p>
+    <p>Python (PyTorch, PySR, Dask, Xarray, Pandas, Cartopy, Matplotlib) Bash, Git, GitHub, High-Performance/Distributed Computing, NetCDF/HDF5/Zarr, Linux, Microsoft Excel (Certified Specialist), LaTeX, WordPress</p>
   </div>
 </div>
