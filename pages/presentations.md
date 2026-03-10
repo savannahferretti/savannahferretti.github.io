@@ -13,7 +13,7 @@ permalink: /presentations/
 
 **2025**
 
-- (Poster) "Towards Data-Driven Discovery of Thermodynamic Controls on South Asian Monsoon Rainfall." *Learning the Earth with Artificial Intellignece and Physics Year 5 Meeting*. Briarcliff Manor, NY, USA.
+- (Poster) "Towards Data-Driven Discovery of Thermodynamic Controls on South Asian Monsoon Rainfall." *Learning the Earth with Artificial Intelligence and Physics Year 5 Meeting*. Briarcliff Manor, NY, USA.
 - (Oral) "Learning Nonlocal Controls on South Asian Monsoon Rainfall." *American Geophysical Union Annual Meeting*. New Orleans, LA, USA.
 
 **2024**
