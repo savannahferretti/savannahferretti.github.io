@@ -9,8 +9,8 @@ permalink: /vita/
 This is an abbreviated vita. A full CV and a shorter resume are both available for download below.
 
 <div class="cv-downloads">
-  <a href="/files/cv.pdf" class="button" target="_blank">Full CV (PDF)</a>
-  <a href="/files/resume.pdf" class="button" target="_blank">Resume (PDF)</a>
+  <a href="/files/cv.pdf" class="button" target="_blank">CV</a>
+  <a href="/files/resume.pdf" class="button" target="_blank">Resume</a>
 </div>
 
 ## Education
@@ -86,7 +86,7 @@ This is an abbreviated vita. A full CV and a shorter resume are both available f
 <div class="cv-entry">
   <div class="cv-entry__date">2026</div>
   <div class="cv-entry__body">
-    <p><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler. "Data-driven integration kernels for interpretable nonlocal operator learning." <em>Accepted to Environmental Data Science.</em></p>
+    <p><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler. Data-driven integration kernels for interpretable nonlocal operator learning. In review at <em>Environ. Data Sci.</em></p>
     <div class="publication__links">
       <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
     </div>
@@ -101,18 +101,14 @@ This is an abbreviated vita. A full CV and a shorter resume are both available f
       <a href="https://doi.org/10.1029/2025GL115546">DOI</a>
       <a href="https://github.com/savannahferretti/monsoon-pod">Code</a>
     </div>
-  </div>
-</div>
-
-<div class="cv-entry">
-  <div class="cv-entry__date">2025</div>
-  <div class="cv-entry__body">
-    <p>L. Peng, P. N. Blossey, W. M. Hannah, et al. (incl. <strong>S. L. Ferretti</strong>). "Resolving low cloud feedbacks globally with E3SM High-Res MMF." <em>Journal of Advances in Modeling Earth Systems.</em></p>
+    <p>L. Peng, P. N. Blossey, W. M. Hannah, ...<strong>S. L. Ferretti</strong>, ...& M. S. Pritchard. "Resolving low cloud feedbacks globally with E3SM High-Res MMF." <em>Journal of Advances in Modeling Earth Systems.</em></p>
     <div class="publication__links">
       <a href="https://doi.org/10.1029/2025MS005003">DOI</a>
     </div>
   </div>
 </div>
+
+
 
 <div class="cv-entry">
   <div class="cv-entry__date">2025</div>
