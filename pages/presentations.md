@@ -18,7 +18,7 @@ permalink: /presentations/
 
 **2024**
 
-- (Poster) "Unraveling CMIP6 Biases in Summer Monsoon Rainfall Over the Arabian Sea and Western India." *American Meteorological Society 104\textsuperscript{th} Annual Meeting*. Baltimore, MD, USA.
+- (Poster) "Unraveling CMIP6 Biases in Summer Monsoon Rainfall Over the Arabian Sea and Western India." *American Meteorological Society 104th Annual Meeting*. Baltimore, MD, USA.
 - (Poster) "Spatiotemporal Stress-Testing of a Process-Oriented Diagnostic for Rainfall." *American Geophysical Union Fall Meeting*. Washington DC, USA.
 
 **2022**
