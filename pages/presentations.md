@@ -6,45 +6,26 @@ permalink: /presentations/
 
 ## Presentations
 
-### Oral Presentations
-
 **2026**
 
-- "Efficient Attention for Long Genomic Sequences." International Conference on Machine Learning (ICML). Vienna, Austria.
+- (Invited Oral) "TBD". *Climate Informatics*. Lausanne, VD, CH.
+- (Invited Oral) "Making Data-Driven Climate Prediction Interpretable by Design." S. L. Ferretti, J. Lin, S. Shamekh, T. Beucler. LEAP NSF-STC Lectures in Climate Data Science. Watch YouTube video here.
 
 **2025**
 
-- "Scalable Variational Inference with Biological Priors." International Conference on Learning Representations (ICLR). Singapore.
-- "Graph Neural Networks for Drug Discovery: Lessons Learned." Machine Learning in Computational Biology (MLCB) Workshop, NeurIPS. San Diego, CA.
+- (Poster) "Towards Data-Driven Discovery of Thermodynamic Controls on South Asian Monsoon Rainfall." *Learning the Earth with Artificial Intellignece and Physics Year 5 Meeting*. Briarcliff Manor, NY, USA.
+- (Oral) "Learning Nonlocal Controls on South Asian Monsoon Rainfall." *American Geophysical Union Annual Meeting*. New Orleans, LA, USA.
 
 **2024**
 
-- "Contrastive Learning for Single-Cell Data Integration." Invited talk, Weill Cornell Medicine Computational Biology Seminar. New York, NY.
-- "Benchmarking Protein Structure Prediction on Disordered Regions." RECOMB Comparative Genomics Satellite. Boston, MA.
-
-**2023**
-
-- "Learning Latent Representations of Gene Expression with Sparse Autoencoders." RECOMB. Istanbul, Turkey.
-
----
-
-### Poster Presentations
-
-**2025**
-
-- "Protein Structure Prediction in Disordered Regions." ML for Structural Biology Workshop, NeurIPS. San Diego, CA.
-- "Scalable Drug–Target Interaction Prediction." Intelligent Systems for Molecular Biology (ISMB). Liverpool, UK.
-
-**2024**
-
-- "Contrastive Learning for Single-Cell RNA Sequencing Data Integration." Advances in Neural Information Processing Systems (NeurIPS). Vancouver, Canada.
-- "Sparse Autoencoder Representations for Gene Expression." New York Computational Biology Symposium. New York, NY.
-
-**2023**
-
-- "Graph-Based Methods for Molecular Property Prediction." American Chemical Society (ACS) National Meeting. San Francisco, CA.
-- "Learning Sparse Representations of Transcriptomic Data." Cold Spring Harbor Laboratory Machine Learning in Biology. Cold Spring Harbor, NY.
+- (Poster) "Unraveling CMIP6 Biases in Summer Monsoon Rainfall Over the Arabian Sea and Western India." *American Meteorological Society 104\textsuperscript{th} Annual Meeting*. Baltimore, MD, USA.
+- (Poster) "Spatiotemporal Stress-Testing of a Process-Oriented Diagnostic for Rainfall." *American Geophysical Union Fall Meeting*. Washington DC, USA.
 
 **2022**
 
-- "Variational Inference for High-Dimensional Biological Data." New York Computational Biology Symposium. New York, NY.
+- (Invited Oral) "Using Models to Understand Climate Change." *Making of Modern Science*, University of California, Irvine. Irvine, CA, USA. 
+- (Poster) "Understanding the Monthly Variation in the Upstream Enhancement of Indian Summer Monsoon Precipitation Near the Western Ghats." *American Geophysical Union Fall Meeting*. Chicago, IL, USA.
+
+**2020**
+
+- (Poster) "Assessing the Meteorological Impact on Methane (CH\textsubscript{4}) Emission Changes in New York City During the COVID-19 Shutdown." *American Geophysical Union Fall Meeting*. Virtual.
