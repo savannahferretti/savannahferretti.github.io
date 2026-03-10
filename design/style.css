@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400&family=Barlow:wght@600&family=Hanken+Grotesk:ital,wght@0,200;0,400;0,500;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400&family=Barlow:wght@600&family=Hanken+Grotesk:ital,wght@0,300;0,400;0,500;1,300&display=swap');
 
 /* ── Variables ── */
 
@@ -20,7 +20,7 @@
 
 body {
   font-family: 'Hanken Grotesk', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   margin: 0;
   padding: 0;
   background: var(--white);
@@ -142,7 +142,7 @@ li { margin-bottom: 0.3rem; }
 
 .author__bio {
   font-family: 'Hanken Grotesk', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 0.85rem;
   color: #444;
   line-height: 1.55;
@@ -170,7 +170,7 @@ li { margin-bottom: 0.3rem; }
 .author__urls li.author__info {
   color: #555;
   font-family: 'Hanken Grotesk', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 .author__urls li a {
@@ -181,7 +181,7 @@ li { margin-bottom: 0.3rem; }
   gap: 0.5rem;
   width: 100%;
   font-family: 'Hanken Grotesk', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   transition: color 0.15s;
 }
 
@@ -357,7 +357,7 @@ a.button:hover {
   width: 100%;
   padding: 0.6rem 0.75rem;
   font-family: 'Hanken Grotesk', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 0.95rem;
   color: var(--black);
   background: var(--white);
@@ -393,6 +393,51 @@ a.button:hover {
 
 .form-submit:hover {
   background: var(--sage);
+}
+
+/* ── CV page ── */
+
+.cv-downloads {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 2.5rem;
+}
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 0 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.cv-entry__date {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--sage);
+  padding-top: 0.15rem;
+  white-space: nowrap;
+}
+
+.cv-entry__body p {
+  margin: 0 0 0.15rem;
+}
+
+.cv-entry__title {
+  font-weight: 400;
+}
+
+.cv-entry__sub {
+  font-size: 0.9rem;
+  color: #555;
+  font-style: italic;
+}
+
+.cv-entry__detail {
+  font-size: 0.88rem;
+  color: #666;
 }
 
 /* ── Responsive ── */
