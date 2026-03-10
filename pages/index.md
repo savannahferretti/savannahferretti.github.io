@@ -63,36 +63,30 @@ Courses: Machine Learning (CS 4780), Computational Biology (CS 4775).
 ## Selected Publications
 
 <div class="publication">
-  <p class="publication__title">Efficient Attention Mechanisms for Long Genomic Sequences</p>
-  <p class="publication__authors"><strong>S. Ferretti</strong>, J. Smith, A. Johnson, R. Patel</p>
-  <p class="publication__venue">International Conference on Machine Learning (ICML), 2026</p>
+  <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
+  <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
+  <p class="publication__venue">Submitted to Environmental Data Science, 2025</p>
   <div class="publication__links">
-    <a href="#">PDF</a>
-    <a href="#">Code</a>
-    <a href="#">arXiv</a>
-    <a href="#">Poster</a>
+    <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
   </div>
 </div>
 
 <div class="publication">
-  <p class="publication__title">Graph Neural Networks for Drug–Target Interaction Prediction at Scale</p>
-  <p class="publication__authors"><strong>S. Ferretti</strong>, B. Lee, J. Smith</p>
-  <p class="publication__venue">Nature Methods, 2025</p>
+  <p class="publication__title">Explaining South Asian monsoon rainfall seasonality using a metric of plume buoyancy</p>
+  <p class="publication__authors"><strong>S. L. Ferretti</strong>, M. S. Pritchard, F. Ahmed, L. Peng, & J. W. Baldwin</p>
+  <p class="publication__venue">Geophysical Research Letters, 2025</p>
   <div class="publication__links">
-    <a href="#">PDF</a>
-    <a href="#">Code</a>
-    <a href="#">DOI</a>
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL115546">DOI</a>
+    <a href="https://github.com/savannahferretti/monsoon-pod">Code</a>
   </div>
 </div>
 
 <div class="publication">
-  <p class="publication__title">Contrastive Learning for Single-Cell RNA Sequencing Data Integration</p>
-  <p class="publication__authors">A. Johnson, <strong>S. Ferretti</strong>, C. Wang, J. Smith</p>
-  <p class="publication__venue">Advances in Neural Information Processing Systems (NeurIPS), 2024</p>
+  <p class="publication__title">ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation</p>
+  <p class="publication__authors">S. Yu, W. M. Hannah, L. Peng, M. A. Bhouri, R. Gupta, J. Lin, B. Lütjens, J. C. Will, T. Beucler, B. E. Harrop, B. R. Hillman, A. M. Jenney, <strong>S. L. Ferretti</strong>, N. Liu, A. Anandkumar, N. D. Brenowitz, V. Eyring, P. Gentine, S. Mandt, J. Pathak, C. Vondrick, R. Yu, L. Zanna, R. P. Abernathey, F. Ahmed, D. C. Bader, P. Baldi, E. A. Barnes, G. Behrens, C. S. Bretherton, J. J. M. Busecke, P. M. Caldwell, W. Chuang, Y. Han, Y. Huang, F. Iglesias-Suarez, S. Jantre, K. Kashinath, M. Khairoutdinov, T. Kurth, N. J. Lutsko, P. -L. Ma, G. Mooers, J. D. Neelin, D. A. Randall, S. Shamekh, A. Subramaniam, M. A. Taylor, N. M. Urban, J. Yuval, G. J. Zhang, T. Zheng, and M. S. Pritchard</p>
+  <p class="publication__venue">NeurIPS 2023, Datasets & Benchmarks Track Outstanding Paper Award</p>
   <div class="publication__links">
-    <a href="#">PDF</a>
-    <a href="#">Code</a>
-    <a href="#">arXiv</a>
+    <a href="https://leap-stc.github.io/ClimSim/README.html" target="_blank">Project</a>
   </div>
 </div>
 
