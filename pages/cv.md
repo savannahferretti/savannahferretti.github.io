@@ -14,9 +14,9 @@ permalink: /cv/
 ## Education
 
 <div class="cv-entry">
-  <div class="cv-entry__date">Jun 2026</div>
+  <div class="cv-entry__date">Expected Jun 2026</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">PhD, Earth System Science</p>
+    <p class="cv-entry__title">PhD in Earth System Science</p>
     <p class="cv-entry__sub">University of California, Irvine</p>
   </div>
 </div>
@@ -24,7 +24,7 @@ permalink: /cv/
 <div class="cv-entry">
   <div class="cv-entry__date">Dec 2023</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">MS, Earth System Science</p>
+    <p class="cv-entry__title">MS in Earth System Science</p>
     <p class="cv-entry__sub">University of California, Irvine</p>
   </div>
 </div>
@@ -32,7 +32,7 @@ permalink: /cv/
 <div class="cv-entry">
   <div class="cv-entry__date">Dec 2020</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">BS, Earth and Atmospheric Sciences</p>
+    <p class="cv-entry__title">BS in Earth and Atmospheric Sciences</p>
     <p class="cv-entry__sub">Cornell University</p>
   </div>
 </div>
@@ -84,7 +84,7 @@ permalink: /cv/
 <div class="cv-entry">
   <div class="cv-entry__date">2026</div>
   <div class="cv-entry__body">
-    <p><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler. "Data-driven integration kernels for interpretable nonlocal operator learning." <em>Accepted to Environmental Data Science.</em></p>
+    <p><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler. "Data-driven integration kernels for interpretable nonlocal operator learning." <em>In review at Environmental Data Science.</em></p>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ permalink: /cv/
 <div class="cv-entry">
   <div class="cv-entry__date">2025</div>
   <div class="cv-entry__body">
-    <p>L. Peng, P. N. Blossey, W. M. Hannah, et al. (incl. <strong>S. L. Ferretti</strong>). "Resolving low cloud feedbacks globally with E3SM High-Res MMF." <em>Journal of Advances in Modeling Earth Systems.</em> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025MS005003">DOI</a></p>
+    <p>L. Peng, P. N. Blossey, W. M. Hannah, ...<strong>S. L. Ferretti</strong>, ...& M. S. Pritchard. "Resolving low cloud feedbacks globally with E3SM High-Res MMF." <em>Journal of Advances in Modeling Earth Systems.</em> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025MS005003">DOI</a></p>
   </div>
 </div>
 
@@ -121,7 +121,7 @@ permalink: /cv/
 <div class="cv-entry">
   <div class="cv-entry__date">2026</div>
   <div class="cv-entry__body">
-    <p>(Invited Oral) "Making Data-Driven Climate Prediction Interpretable by Design." LEAP NSF-STC Lectures in Climate Data Science.</p>
+    <p>(Invited Oral) "Making Data-Driven Climate Prediction Interpretable by Design." Learning the Earth with Artificial Intellignece & Physics Lectures in Climate Data Science.</p>
     <p>(Invited Oral) TBD. <em>Climate Informatics.</em> Lausanne, Switzerland.</p>
   </div>
 </div>
