@@ -49,7 +49,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
   <p class="publication__authors">A. M. Jenney, <strong>S. L. Ferretti</strong>, & M. S. Pritchard</p>
   <p class="publication__venue">Journal of Advances in Modeling Earth Systems, 2023</p>
   <div class="publication__links">
-    <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022MS003444" target="_blank">DOI</a>
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022MS003444">DOI</a>
   </div>
 </div>
 
@@ -58,6 +58,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
   <p class="publication__authors">S. Yu, W. M. Hannah, L. Peng, M. A. Bhouri, R. Gupta, J. Lin, B. Lütjens, J. C. Will, T. Beucler, B. E. Harrop, B. R. Hillman, A. M. Jenney, <strong>S. L. Ferretti</strong>, N. Liu, A. Anandkumar, N. D. Brenowitz, V. Eyring, P. Gentine, S. Mandt, J. Pathak, C. Vondrick, R. Yu, L. Zanna, R. P. Abernathey, F. Ahmed, D. C. Bader, P. Baldi, E. A. Barnes, G. Behrens, C. S. Bretherton, J. J. M. Busecke, P. M. Caldwell, W. Chuang, Y. Han, Y. Huang, F. Iglesias-Suarez, S. Jantre, K. Kashinath, M. Khairoutdinov, T. Kurth, N. J. Lutsko, P. -L. Ma, G. Mooers, J. D. Neelin, D. A. Randall, S. Shamekh, A. Subramaniam, M. A. Taylor, N. M. Urban, J. Yuval, G. J. Zhang, T. Zheng, and M. S. Pritchard</p>
   <p class="publication__venue">NeurIPS 2023, Datasets & Benchmarks Track Outstanding Paper Award</p>
   <div class="publication__links">
-    <a href="https://leap-stc.github.io/ClimSim/README.html" target="_blank">Project</a>
+    <a href="https://leap-stc.github.io/ClimSim/README.html">Project</a>
   </div>
 </div>

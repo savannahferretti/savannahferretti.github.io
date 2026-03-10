@@ -1,14 +1,16 @@
 ---
 layout: default
-title: CV
-permalink: /cv/
+title: Vita
+permalink: /vita/
 ---
 
-## Curriculum Vitae
+## Vita
+
+This is an abbreviated vita. A full CV and a shorter resume are both available for download below.
 
 <div class="cv-downloads">
-  <a href="/files/resume.pdf" class="button" target="_blank">Resume (PDF)</a>
   <a href="/files/cv.pdf" class="button" target="_blank">Full CV (PDF)</a>
+  <a href="/files/resume.pdf" class="button" target="_blank">Resume (PDF)</a>
 </div>
 
 ## Education
@@ -47,34 +49,50 @@ permalink: /cv/
   <div class="cv-entry__date">2026</div>
   <div class="cv-entry__body">
     <p><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler. "Data-driven integration kernels for interpretable nonlocal operator learning." <em>Accepted to Environmental Data Science.</em></p>
+    <div class="publication__links">
+      <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
+    </div>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2025</div>
   <div class="cv-entry__body">
-    <p><strong>S. L. Ferretti</strong>, M. S. Pritchard, F. Ahmed, L. Peng, & J. W. Baldwin. "Explaining South Asian monsoon rainfall seasonality using a metric of plume buoyancy." <em>Geophysical Research Letters.</em> <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL115546">DOI</a></p>
+    <p><strong>S. L. Ferretti</strong>, M. S. Pritchard, F. Ahmed, L. Peng, & J. W. Baldwin. "Explaining South Asian monsoon rainfall seasonality using a metric of plume buoyancy." <em>Geophysical Research Letters.</em></p>
+    <div class="publication__links">
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL115546">DOI</a>
+      <a href="https://github.com/savannahferretti/monsoon-pod">Code</a>
+    </div>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2025</div>
   <div class="cv-entry__body">
-    <p>L. Peng, P. N. Blossey, W. M. Hannah, et al. (incl. <strong>S. L. Ferretti</strong>). "Resolving low cloud feedbacks globally with E3SM High-Res MMF." <em>Journal of Advances in Modeling Earth Systems.</em> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025MS005003">DOI</a></p>
+    <p>L. Peng, P. N. Blossey, W. M. Hannah, et al. (incl. <strong>S. L. Ferretti</strong>). "Resolving low cloud feedbacks globally with E3SM High-Res MMF." <em>Journal of Advances in Modeling Earth Systems.</em></p>
+    <div class="publication__links">
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025MS005003">DOI</a>
+    </div>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2023</div>
   <div class="cv-entry__body">
-    <p>A. M. Jenney, <strong>S. L. Ferretti</strong>, & M. S. Pritchard. "Vertical resolution impacts explicit simulation of deep convection." <em>Journal of Advances in Modeling Earth Systems.</em> <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022MS003444">DOI</a></p>
+    <p>A. M. Jenney, <strong>S. L. Ferretti</strong>, & M. S. Pritchard. "Vertical resolution impacts explicit simulation of deep convection." <em>Journal of Advances in Modeling Earth Systems.</em></p>
+    <div class="publication__links">
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022MS003444">DOI</a>
+    </div>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2023</div>
   <div class="cv-entry__body">
-    <p>S. Yu, W. M. Hannah, L. Peng, <strong>S. L. Ferretti</strong>, et al. "ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation." <em>NeurIPS 2023, Datasets & Benchmarks Track Outstanding Paper Award.</em> <a href="https://leap-stc.github.io/ClimSim/README.html">Project</a></p>
+    <p>S. Yu, W. M. Hannah, L. Peng, <strong>S. L. Ferretti</strong>, et al. "ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation." <em>NeurIPS 2023, Datasets & Benchmarks Track Outstanding Paper Award.</em></p>
+    <div class="publication__links">
+      <a href="https://leap-stc.github.io/ClimSim/README.html">Project</a>
+    </div>
   </div>
 </div>
 
