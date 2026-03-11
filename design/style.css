@@ -428,12 +428,14 @@ a.button:hover {
 
 .cv-entry__title {
   font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.4;
+  margin: 0 0 0.2rem;
 }
 
 .cv-entry__sub {
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   color: #555;
-  font-style: italic;
 }
 
 .cv-entry__detail {
