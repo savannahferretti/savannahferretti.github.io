@@ -19,7 +19,7 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
   <div class="cv-entry__date">Jun 2026</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">Ph.D. in Earth System Science</p>
-    <p class="cv-entry__sub">University of California, Irvine</p>
+    <p class="cv-entry__sub">UC Irvine</p>
   </div>
 </div>
 
@@ -27,7 +27,7 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
   <div class="cv-entry__date">Dec 2023</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">M.S. in Earth System Science</p>
-    <p class="cv-entry__sub">University of California, Irvine</p>
+    <p class="cv-entry__sub">UC Irvine</p>
   </div>
 </div>
 
@@ -45,7 +45,7 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
   <div class="cv-entry__date">Sep 2021 – Present</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">Graduate Student Researcher</p>
-    <p class="cv-entry__sub">Pritchard & Baldwin Labs, University of California, Irvine</p>
+    <p class="cv-entry__sub">Pritchard & Baldwin Labs, UC Irvine</p>
   </div>
 </div>
 
@@ -193,7 +193,7 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
   <div class="cv-entry__date">2022</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">Using Models to Understand Climate Change</p>
-    <p class="cv-entry__sub">Invited Oral • <em>Making Modern Science</em>, University of California Irvine • Irvine, CA, USA</p>
+    <p class="cv-entry__sub">Invited Oral • <em>Making Modern Science</em>, UC Irvine • Irvine, CA, USA</p>
     <p class="cv-entry__title">Understanding the Monthly Variation in the Upstream Enhancement of Indian Summer Monsoon Precipitation Near the Western Ghats</p>
     <p class="cv-entry__sub">Poster • <em>AGU Fall Meeting</em> • Chicago, IL, USA</p>
   </div>
