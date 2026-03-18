@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-sitemap
+
 title: Savannah Ferretti
 description: "PhD Candidate in Earth System Science"
 
