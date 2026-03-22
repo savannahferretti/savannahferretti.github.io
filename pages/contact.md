@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact/
+description: "Get in touch with Savannah Ferretti to discuss research, collaborations, or employment opportunities."
 ---
 
 <div class="contact-layout">

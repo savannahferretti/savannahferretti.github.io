@@ -4,10 +4,56 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="{{ site.author.name }}">
   <meta name="google-site-verification" content="IKszai_b2uOzPge--cxg2oH1T-dMrbYo593jsFJN7rM" />
 
   <title>{% if page.title and page.title != site.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.title and page.title != site.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.author.avatar }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.title and page.title != site.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}{{ site.author.avatar }}">
+
+  {% if page.permalink == "/" %}
+  <!-- JSON-LD Person schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ site.author.name }}",
+    "url": "{{ site.url }}",
+    "image": "{{ site.url }}{{ site.author.avatar }}",
+    "jobTitle": "PhD Candidate in Earth System Science",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of California, Irvine"
+    },
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "Cornell University"
+    },
+    "email": "mailto:{{ site.author.email }}",
+    "sameAs": [
+      "https://github.com/{{ site.author.github }}",
+      "https://www.linkedin.com/in/{{ site.author.linkedin }}",
+      "{{ site.author.googlescholar }}"
+    ],
+    "knowsAbout": ["climate science", "Earth system science", "machine learning", "South Asian monsoon", "tropical rainfall", "data science"]
+  }
+  </script>
+  {% endif %}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -35,7 +81,7 @@
         <img class="author__avatar" src="{{ site.author.avatar }}" alt="{{ site.author.name }}">
 
         <div class="author__content">
-          <h3 class="author__name">{{ site.author.name }}</h3>
+          <h1 class="author__name">{{ site.author.name }}</h1>
           {% if site.author.bio %}
           <p class="author__bio">{{ site.author.bio }}</p>
           {% endif %}
