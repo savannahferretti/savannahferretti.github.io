@@ -2,6 +2,7 @@
 layout: default
 title: Home
 permalink: /
+description: "Savannah Ferretti is a PhD candidate in Earth System Science at UC Irvine studying tropical rainfall and the South Asian monsoon using statistical and machine learning models."
 ---
 
 ## About Me

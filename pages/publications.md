@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 permalink: /publications/
+description: "Peer-reviewed publications by Savannah Ferretti on climate science, South Asian monsoon rainfall, machine learning for climate emulation, and related topics."
 ---
 
 ## Publications

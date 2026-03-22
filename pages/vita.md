@@ -2,6 +2,7 @@
 layout: default
 title: Vita
 permalink: /vita/
+description: "Curriculum vitae of Savannah Ferretti — education, research experience, publications, and presentations in Earth system science and climate data science."
 ---
 
 ## Vita
