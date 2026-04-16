@@ -165,7 +165,8 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
 <div class="cv-entry">
   <div class="cv-entry__date">2026</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">TBD</p>
+    <p class="cv-entry__title">Data-Driven Integration Kernels for Interpretable Nonlocal Operator Learning</p>
+    <p class="cv-entry__sub">Oral • <em>Climate Informatics Conference</em> • Lausanne, VD, CH</p>
     <p class="cv-entry__title">Making Data-Driven Climate Prediction Interpretable by Design</p>
     <p class="cv-entry__sub">Invited Oral • <em>LEAP Lectures in Climate Data Science</em> • Virtual</p>
   </div>
