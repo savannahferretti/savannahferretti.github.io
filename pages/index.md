@@ -29,7 +29,7 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
   </tr>
   <tr>
     <td>Feb 2026</td>
-    <td>Delivered a guest lecture on my second PhD chapter as part of the LEAP NSF-STC Spring Lectures in Climate Data Science.</td>
+    <td>Delivered a guest lecture on my second PhD chapter as part of the <strong>LEAP NSF-STC Spring Lectures in Climate Data Science</strong>.</td>
   </tr>
   <tr>
     <td>Dec 2025</td>
