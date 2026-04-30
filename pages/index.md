@@ -25,7 +25,7 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
 <table class="news-table">
   <tr>
     <td>Apr 2026</td>
-    <td>Presented my second PhD chapter at the <strong>Climate Informatics Conference</strong> in Lausanne.</td>
+    <td>Presented my second PhD chapter research at the <strong>Climate Informatics Conference</strong> in Lausanne.</td>
   </tr>
   <tr>
     <td>Feb 2026</td>
