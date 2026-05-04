@@ -10,7 +10,7 @@ description: "Peer-reviewed publications by Savannah Ferretti on climate science
 <div class="publication">
   <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
   <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
-  <p class="publication__venue">In review at Environmental Data Science</p>
+  <p class="publication__venue">In press at Environmental Data Science</p>
   <div class="publication__links">
     <a href="https://arxiv.org/abs/2603.10305">Paper</a>
     <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
