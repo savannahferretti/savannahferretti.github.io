@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact/
-description: "Get in touch with Savannah Ferretti to discuss research, collaborations, or employment opportunities."
+description: "How to contact me."
 ---
 
 <div class="contact-layout">
@@ -11,12 +11,6 @@ description: "Get in touch with Savannah Ferretti to discuss research, collabora
     <h2>Let's get in touch!</h2>
     <p>
       I’m happy to connect about research, potential collaborations, or possible emplyoment opportunities. I try to reply within a few days.
-    </p>
-    <p>
-      You can also find me at:<br>
-      3400 Interdisciplinary Science & Engineering Building<br>
-      University of California, Irvine<br>
-      Irvine, CA 92697
     </p>
   </div>
 
