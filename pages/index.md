@@ -2,15 +2,13 @@
 layout: default
 title: Home
 permalink: /
-description: "Savannah Ferretti is a PhD candidate in Earth System Science at UC Irvine studying tropical rainfall and the South Asian monsoon using statistical and machine learning models."
 ---
 
 ## About Me
 
 **I'm a climate data scientist.** 
 
-
-I’m a current PhD candidate at UC Irvine, advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/), and I expect to complete my doctorate in June 2026. My research uses statistical and machine learning models to understand the drivers of tropical rainfall, with a focus on the South Asian monsoon, though I am broadly interested in climate dynamics, extremes, and variability, and their impacts on vulnerable populations. I am currently exploring full-time roles where I can apply my skills in climate science, data analysis, and open-source research. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
+I recently defended my PhD in Earth System Sciecnce at UC Irvine, advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/). My research combines physics-based and data-driven approaches to understand the drivers of tropical rainfall, with a focus on the South Asian monsoon, though I am broadly interested in how machine learning can help us better understand and prepare for the impacts of climate change. I am currently searching for full-time acadmeic or industry roles focused on climate data science. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
 
 **I’m interested in open science.**
 
@@ -23,6 +21,10 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
 ## Recent News
 
 <table class="news-table">
+  <tr>
+    <td>Jun 2026</td>
+    <td>I successfully defended my PhD dissertation titled "Make it Rain—Understanding Thermodynamic Controls on South Asian Monsoon Rainfall."</td>
+  </tr>
   <tr>
     <td>Apr 2026</td>
     <td>Presented my second PhD chapter research at the <strong>Climate Informatics Conference</strong> in Lausanne.</td>
