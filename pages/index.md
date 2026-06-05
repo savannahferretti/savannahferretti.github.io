@@ -2,6 +2,7 @@
 layout: default
 title: Home
 permalink: /
+description: "General information about me."
 ---
 
 ## About Me
