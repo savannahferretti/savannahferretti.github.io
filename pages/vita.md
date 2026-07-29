@@ -43,6 +43,14 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
 ## Experience
 
 <div class="cv-entry">
+  <div class="cv-entry__date">Aug 2026 – Present</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">Postdoctoral Researcher</p>
+    <p class="cv-entry__sub">Pritchard & Baldwin Labs, UC Irvine</p>
+  </div>
+</div>
+
+<div class="cv-entry">
   <div class="cv-entry__date">Sep 2021 – Present</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">Graduate Student Researcher</p>
