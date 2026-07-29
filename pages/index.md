@@ -9,7 +9,7 @@ description: "General information about me."
 
 **I'm a climate data scientist.** 
 
-I recently defended my PhD in Earth System Sciecnce at UC Irvine, advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/).I am currently a postdoctoral researcher at UC Irvine and will soon join [Hannah Kerner](https://hannah-rae.github.io/)’s group at Arizona State University. Broadly, my research uses machine learning to better understand the Earth system and support efforts to anticipate and prepare for the impacts of climate change. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
+I recently defended my PhD in Earth System Sciecnce at UC Irvine, advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/). I am currently a postdoctoral researcher at UC Irvine and will soon join [Hannah Kerner](https://hannah-rae.github.io/)’s group at Arizona State University as a postdoctoral researcher. Broadly, my research uses machine learning to better understand the Earth system and support efforts to anticipate and prepare for the impacts of climate change. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
 
 **I’m interested in open science.**
 
