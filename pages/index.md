@@ -23,8 +23,12 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
 
 <table class="news-table">
   <tr>
+    <td>Aug 2026</td>
+    <td>Started my postdoctoral position at UC Irvine.</td>
+  </tr>
+  <tr>
     <td>Jun 2026</td>
-    <td>I successfully defended my PhD dissertation titled "Make it Rain—Understanding Thermodynamic Controls on South Asian Monsoon Rainfall."</td>
+    <td>Successfully defended my PhD dissertation titled "Make it Rain—Understanding Thermodynamic Controls on South Asian Monsoon Rainfall."</td>
   </tr>
   <tr>
     <td>Apr 2026</td>
@@ -39,7 +43,7 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
     <td>Presented my second PhD chapter research at the <strong>AGU Fall Meeting</strong> in New Orleans.</td>
   </tr>
   <tr>
-    <td>Aug 2025 </td>
+    <td>Aug 2025</td>
     <td>The first chapter of my PhD was published in <i>Geophysical Research Letters</i>.</td>
   </tr>
 </table>
