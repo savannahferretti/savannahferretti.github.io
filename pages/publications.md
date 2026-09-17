@@ -10,9 +10,9 @@ description: "Peer-reviewed publications."
 <div class="publication">
   <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
   <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
-  <p class="publication__venue">In press at Environmental Data Science</p>
+  <p class="publication__venue">Environmental Data Science, 2026</p>
   <div class="publication__links">
-    <a href="https://arxiv.org/abs/2603.10305">Paper</a>
+    <a href="https://doi.org/10.1017/eds.2026.10056">Paper</a>
     <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
   </div>
 </div>
