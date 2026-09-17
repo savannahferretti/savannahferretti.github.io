@@ -43,7 +43,7 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
 ## Experience
 
 <div class="cv-entry">
-  <div class="cv-entry__date">Aug 2026 – Present</div>
+  <div class="cv-entry__date">Aug – Oct 2026</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">Postdoctoral Researcher</p>
     <p class="cv-entry__sub">Pritchard & Baldwin Groups, UC Irvine</p>
@@ -51,7 +51,7 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
 </div>
 
 <div class="cv-entry">
-  <div class="cv-entry__date">Sep 2021 – Present</div>
+  <div class="cv-entry__date">Sep 2021 – Jul 2026</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">Graduate Student Researcher</p>
     <p class="cv-entry__sub">Pritchard & Baldwin Groups, UC Irvine</p>
@@ -97,9 +97,9 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
   <div class="cv-entry__body">
     <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
     <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
-    <p class="publication__venue">In press at Environmental Data Science</p>
+    <p class="publication__venue">Environmental Data Science, 2026</p>
     <div class="publication__links">
-      <a href="https://arxiv.org/abs/2603.10305">Paper</a>
+      <a href="https://doi.org/10.1017/eds.2026.10056">Paper</a>
       <a href="https://github.com/savannahferretti/monsoon-kernels">Code</a>
     </div>
   </div>
