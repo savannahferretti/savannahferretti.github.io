@@ -24,7 +24,7 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
 <table class="news-table">
   <tr>
     <td>Sep 2026</td>
-    <td>The second chapter of my PhD was published in <i>Environmental data Science</i>.</td>
+    <td>The second chapter of my PhD was published in <i>Environmental Data Science</i>.</td>
   </tr>
   <tr>
     <td>Aug 2026</td>
