@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://savannahferretti.github.io/sitemap.xml
