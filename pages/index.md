@@ -9,7 +9,7 @@ description: "General information about me."
 
 **I'm a climate data scientist.** 
 
-I recently defended my PhD in Earth System Sciecnce at UC Irvine, advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/). I am currently a postdoctoral researcher at UC Irvine and will soon join [Hannah Kerner](https://hannah-rae.github.io/)’s group at Arizona State University as a postdoctoral researcher. Broadly, my research uses machine learning to better understand the Earth system and support efforts to anticipate and prepare for the impacts of climate change. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
+I am a postdoctoral researcher in [Hannah Kerner](https://hannah-rae.github.io/)’s group at Arizona State University. I earned my Ph.D. in Earth System Science from UC Irvine, where I was advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/), with [Tom Beucler](https://wp.unil.ch/dawn/) at the University of Lausanne as a close collaborator and mentor. Broadly, my research uses machine learning to better understand the Earth system and support efforts to anticipate and prepare for the impacts of climate change. Some of my projects are available on [GitHub](https://github.com/savannahferretti).
 
 **I’m interested in open science.**
 
@@ -23,12 +23,16 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
 
 <table class="news-table">
   <tr>
+    <td>Nov 2026</td>
+    <td>Started my postdoc position at Arizona State University.</td>
+  </tr>
+  <tr>
     <td>Sep 2026</td>
     <td>The second chapter of my PhD was published in <i>Environmental Data Science</i>.</td>
   </tr>
   <tr>
     <td>Aug 2026</td>
-    <td>Started my postdoctoral position at UC Irvine.</td>
+    <td>Started my temporary postdoctoral position at UC Irvine.</td>
   </tr>
   <tr>
     <td>Jun 2026</td>
