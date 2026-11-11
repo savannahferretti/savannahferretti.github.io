@@ -8,6 +8,16 @@ description: "Peer-reviewed publications."
 ## Publications
 
 <div class="publication">
+  <p class="publication__title">Discovering equations for the thermodynamics of South Asian monsoon precipitation</p>
+  <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
+  <p class="publication__venue">Submitted to the Journal of Advances in Modeling Earth Systems</p>
+  <div class="publication__links">
+    <a href="https://arxiv.org/abs/2611.14401">Preprint</a>
+    <a href="https://github.com/savannahferretti/monsoon-discovery">Code</a>
+  </div>
+</div>
+
+<div class="publication">
   <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
   <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
   <p class="publication__venue">Environmental Data Science, 2026</p>
