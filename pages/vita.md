@@ -107,7 +107,7 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
     <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
     <p class="publication__venue">Submitted to the Journal of Advances in Modeling Earth Systems</p>
     <div class="publication__links">
-      <a href="https://doi.org/10.48550/arXiv.2611.14401">Preprint</a>
+      <a href="https://doi.org/10.48550/arXiv.2611.14401">Paper</a>
       <a href="https://github.com/savannahferretti/monsoon-discovery">Code</a>
     </div>
   </div>
