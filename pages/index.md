@@ -24,7 +24,7 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
 <table class="news-table">
   <tr>
     <td>Nov 2026</td>
-    <td>Started my postdoc position at Arizona State University.</td>
+    <td>Started my postdoc at Arizona State University.</td>
   </tr>
   <tr>
     <td>Sep 2026</td>
@@ -32,7 +32,7 @@ I’m originally from Long Island, New York. I studied Earth and Atmospheric Sci
   </tr>
   <tr>
     <td>Aug 2026</td>
-    <td>Started my temporary postdoctoral position at UC Irvine.</td>
+    <td>Started my temporary postdoc at UC Irvine.</td>
   </tr>
   <tr>
     <td>Jun 2026</td>
