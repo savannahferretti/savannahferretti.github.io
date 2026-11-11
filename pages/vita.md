@@ -103,6 +103,19 @@ This is an abbreviated vita. A full, up-to-date CV and a shorter resume are both
 <div class="cv-entry">
   <div class="cv-entry__date">2026</div>
   <div class="cv-entry__body">
+    <p class="publication__title">Discovering equations for the thermodynamics of South Asian monsoon precipitation</p>
+    <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
+    <p class="publication__venue">Submitted to the Journal of Advances in Modeling Earth Systems</p>
+    <div class="publication__links">
+      <a href="https://doi.org/10.48550/arXiv.2611.14401">Preprint</a>
+      <a href="https://github.com/savannahferretti/monsoon-discovery">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">2026</div>
+  <div class="cv-entry__body">
     <p class="publication__title">Data-driven integration kernels for interpretable nonlocal operator learning</p>
     <p class="publication__authors"><strong>S. L. Ferretti</strong>, J. Lin, S. Shamekh, J. W. Baldwin, M. S. Pritchard, & T. Beucler</p>
     <p class="publication__venue">Environmental Data Science, 2026</p>
